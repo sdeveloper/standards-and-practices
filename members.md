@@ -268,6 +268,7 @@ Format:
 | Thom Green | [bloodythorn](https:://github.com/bloodythorn) | C++, SFML, Game Development ||
 | Tim Downey | [tcdowney](https://github.com/tcdowney) ||
 | Tim Fulton | [tmfulton](https://github.com/tmfulton) || I know Java, some python and objective-C, I'm hoping to learn alot more about programming
+| Timothy McFarlane | [sdeveloper](https://github.com/sdeveloper) ||
 | Tommy Garland | [tommygarland](https://github.com/tommygarland || 
 | Tommy Pedersen | [bodhiBit](https://github.com/bodhiBit) | I have about a lifetime of experience in various programming languages, but none in Git.. |
 | Tomoyuki Katsube | [ka2be](https://github.com/ka2be) |EXPERIENCE:learning Scheme and Python a few years as an amateur.GOALS:enjoy teamwork,write more practical code and readable document(+individually English-Japanese translating).And I like Snufkin.|
